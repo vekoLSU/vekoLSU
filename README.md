@@ -1,9 +1,12 @@
-# Samuel Vekovius
-
-## 🐯 LSU Computer Science Student
-
-This profile contains academic projects and coursework.
-
+<div align="center">
+<font size="7">Samuel Vekovius</font>
+</div>
+<div align="center">
+<font size="5">🐯LSU Computer Science Student</font>
+</div>
+<div align="center">
+<font size="4">This profile contains academic projects and coursework.</font>
+</div>
 ---
 
 ### 🔗 Personal GitHub
