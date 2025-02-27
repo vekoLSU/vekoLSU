@@ -6,7 +6,9 @@ This profile contains academic projects and coursework.
 For personal projects and open-source contributions, check out my main GitHub account:
 <div align="center">
   
-[![Personal GitHub](https://img.shields.io/badge/GitHub-vekovius-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40&labelColor=black)](https://github.com/vekovius)
+<a href="https://github.com/vekovius">
+  <img src="https://img.shields.io/badge/GitHub-vekovius-181717?style=for-the-badge&logo=github&logoColor=white" width="220" height="38">
+</a>
   
 </div>
 
