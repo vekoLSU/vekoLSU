@@ -1,6 +1,6 @@
 # Samuel Vekovius
 
-## 🐅 LSU Computer Science Student
+## 🐯 LSU Computer Science Student
 
 This profile contains academic projects and coursework.
 
@@ -13,7 +13,7 @@ For personal projects and open-source contributions, check out my main GitHub ac
   
 <div align="center">
 <a href="https://github.com/vekovius">
-  <img src="https://img.shields.io/badge/GitHub-vekovius-181717?style=for-the-badge&logo=github&logoColor=white" width="440" height="76">
+  <img src="https://img.shields.io/badge/GitHub-vekovius-181717?style=for-the-badge&logo=github&logoColor=white" width="286" height="49.4">
 </a>
 </div>
 
