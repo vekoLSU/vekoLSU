@@ -1,16 +1,15 @@
-## Hi there 👋
+Sam | vekoLSU
+LSU Computer Science Student
+👋 Welcome to my university GitHub account! This profile contains academic projects and coursework.
 
-<!--
-**vekoLSU/vekoLSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 Personal GitHub
+For personal projects and open-source contributions, please visit my main GitHub account:
+<div align="center">
+Show Image
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<!-- LSU Colors - Purple and Gold -->
+<img src="https://via.placeholder.com/800x10/461D7C/461D7C">
+<img src="https://via.placeholder.com/800x5/FDD023/FDD023">
+</div>
