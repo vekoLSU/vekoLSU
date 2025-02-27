@@ -21,7 +21,6 @@ For personal projects and open-source contributions, visit my main GitHub accoun
 <div align="center">
   
 <!-- LSU Colors -->
-<img src="https://img.shields.io/badge/LSU-%23461D7C?style=for-the-badge" width="50%">
-<img src="https://img.shields.io/badge/Tigers-%23FDD023?style=for-the-badge" width="50%">
+<img src="https://img.shields.io/badge/LSU-%23461D7C?style=for-the-badge" width="50%"> <img src="https://img.shields.io/badge/Tigers-%23FDD023?style=for-the-badge" width="50%">
 
 </div>
