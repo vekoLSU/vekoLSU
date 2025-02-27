@@ -1,4 +1,4 @@
-# Sam | vekoLSU
+# Samuel Vekovius
 
 ## LSU Computer Science Student
 
