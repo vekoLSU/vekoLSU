@@ -2,7 +2,7 @@
 
 ## LSU Computer Science Student
 
-👋 Welcome to my university GitHub account! This profile contains academic projects and coursework.
+This profile contains academic projects and coursework.
 
 ---
 
