@@ -1,6 +1,6 @@
 # Samuel Vekovius
 
-## LSU Computer Science Student
+## LSU Computer Science
 
 This profile contains academic projects and coursework.
 
