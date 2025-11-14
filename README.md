@@ -7,7 +7,7 @@ This profile contains academic projects and coursework.
 
 ---
 
-### 🔗 Personal GitHub
+### Personal GitHub
 
 For personal projects and open-source contributions, check out my main GitHub account:
 
