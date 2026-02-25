@@ -2,7 +2,7 @@
 
 ## LSU Computer Science
 
-This profile contains academic projects and coursework.
+This profile contained academic projects and coursework.
 
 
 ---
